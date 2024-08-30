@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 function App() {
-  const [data, setData] = useState(null);
+  const [data, setData] = useState(null); // I think this comments?
 
   useEffect(() => {
     fetch('/api/data')
