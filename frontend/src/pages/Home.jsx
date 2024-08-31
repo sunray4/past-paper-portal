@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import ExerciseCards from './ExerciseCards';
+import ExerciseCards from '../components/ExerciseCards';
 
 export default function Home() {
     return (

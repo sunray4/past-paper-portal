@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from 'react-router-dom';
 
 export default function Nav() {
     return (
@@ -9,10 +10,9 @@ export default function Nav() {
                 </div>
 
         <ul className="flex space-x-4">
-            <li><a href="templates/index.html">Home</a></li>
-            <li><a href="#">Share Exercise</a></li>
-            {/* <li><a href="#">Services</a></li> */}
-            {/* <li><a href="#">Contact</a></li> */}
+        <li><Link to="/">Home</Link></li>
+        {/* <li><Link to="/">Share Exercise</Link></li> */}
+        {/* <li><Link to="/">Home</Link></li> */}
         </ul>
     </nav>
     )
