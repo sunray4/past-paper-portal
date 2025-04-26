@@ -1,5 +1,5 @@
 # Past Paper Portal
-![image of home page](/assets/home.png)
+![image of home page](/assets/home.jpeg)
 
 In the education-themed hackathon Recess Hacks 4.0, we got inspiration from analyzing problems in our everyday school lives: Every time a test/exam comes up, we wish we could practice with test papers from previous years to feel more prepared. Gaining insight from forum social networks like Reddit, we created a past paper sharing platform where students can share their test papers and search from a pool of past assessments shared by other members of the community. 
 
