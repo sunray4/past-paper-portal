@@ -19,7 +19,7 @@ with app.app_context():
 exit()
 
 cd ../frontend
-npm run
+npm run start
 ```
 
 On Windows
@@ -39,5 +39,5 @@ with app.app_context():
 exit()
 
 cd ../frontend
-npm run
+npm run start
 ```
